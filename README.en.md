@@ -102,6 +102,14 @@ Then, once installed, tell your agent:
 
 > Lay out `article.md` as WeChat HTML using the Moyu Green theme.
 
+## 💬 Community
+
+Scan to join the **official WeChat Work group** (dynamic QR, auto-invite) — chat about WeChat layout & Agent Skills:
+
+<img src="https://origin.picgo.net/2026/07/08/f3a1885995b4f74dd2cc34ddceb21ec9ee83015915fd345b.png" width="220" alt="WeChat Work group QR">
+
+> QR expired? Add WeChat **`zuiyn_soul`** (note "gzh-design") to get invited.
+
 ## 📖 Workflow
 
 1. **Pick a theme** — auto-suggests the best fit by topic and asks you to confirm (defaults to Moyu Green); or specify one, or generate a new one.
