@@ -120,7 +120,7 @@ git clone https://github.com/isjiamu/gzh-design-skill.git ~/.claude/skills/gzh-d
 
 扫码加入**官方企业微信交流群**（活码自动邀请入群，一起交流公众号排版 & Agent Skills 玩法）：
 
-<img src="https://origin.picgo.net/2026/07/08/f3a1885995b4f74dd2cc34ddceb21ec9ee83015915fd345b.png" width="220" alt="企业微信交流群二维码">
+<img src="https://github.com/isjiamu/gzh-design-skill/releases/download/assets-v1/group-qr.png" width="220" alt="企业微信交流群二维码">
 
 > 扫码失效？加作者微信 **`zuiyn_soul`**（备注「gzh-design」）拉你进群。
 

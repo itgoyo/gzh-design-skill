@@ -106,7 +106,7 @@ Then, once installed, tell your agent:
 
 Scan to join the **official WeChat Work group** (dynamic QR, auto-invite) — chat about WeChat layout & Agent Skills:
 
-<img src="https://origin.picgo.net/2026/07/08/f3a1885995b4f74dd2cc34ddceb21ec9ee83015915fd345b.png" width="220" alt="WeChat Work group QR">
+<img src="https://github.com/isjiamu/gzh-design-skill/releases/download/assets-v1/group-qr.png" width="220" alt="WeChat Work group QR">
 
 > QR expired? Add WeChat **`zuiyn_soul`** (note "gzh-design") to get invited.
 
